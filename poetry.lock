@@ -55,7 +55,7 @@ python-versions = "*"
 version = "3.7.1"
 
 [[package]]
-category = "main"
+category = "dev"
 description = "Backported and Experimental Type Hints for Python 3.5+"
 name = "typing-extensions"
 optional = false
@@ -63,7 +63,7 @@ python-versions = "*"
 version = "3.7.4.3"
 
 [metadata]
-content-hash = "d60c4605e4b8cd13b319defd5e72d3375c48f3bcc8b98d3f3d10637541be32bf"
+content-hash = "e4a4637a050cfd8d1dab3509ac285174738f30c2d60b7426d1095606c43000f6"
 python-versions = "^3.7"
 
 [metadata.hashes]
