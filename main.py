@@ -3,4 +3,4 @@ import redis
 r = redis.Redis()
 
 
-r.pipeline().get("hell").execute()
+r.pipeline().get("hello").execute()
